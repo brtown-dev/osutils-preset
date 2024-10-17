@@ -1,0 +1,6 @@
+{
+  "uri": "http://10.0.64.108:4000",
+  "systemid": "JP001",
+  "datadir_ordergroup": "./data/ordergroup",
+  "datadir_preset": "./data/preset"
+}
